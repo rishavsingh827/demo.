@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+}
+
+h3{
+    margin-top: 0;
+}
+
+.first-container{
+    background-color: lightcoral;
+    padding: 20px;
+    height: 200px;
+    width: 200px;
+    border: solid 10px;
+    
+}
+
+.middle-container{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    margin-left: 260px;
+    border: solid 10px;
+}
+.last-container{
+    background-color: aquamarine;
+    height: 200px;
+    width: 200px;
+    border: solid 10px;
+    margin-left: 480px;
+
+}
